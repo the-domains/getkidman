@@ -1,0 +1,28 @@
+name: getkidman
+favicon: null
+layout_spectrum: 0.3865980412811041
+typography_spectrum: 0.3990840814076364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4668385779950768
+  lightness: 0.44821538776159286
+  saturation: 0.30201716627925634
+  rhythmicContrast: 0.6066676850896329
+purpose: []
