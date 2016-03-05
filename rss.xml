@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[getKidman]]></title>
         <description><![CDATA[getKidman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/getkidman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 13:28:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 13:30:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/getkidman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blair doesn't get democracy]]></title>
-            <description><![CDATA[<article><h1>Blair doesn't get democracy</h1><p>What's really going on inside the head of Donald Trump? Can Assad, Ghadaffi, Hussein really have been so divorced from reality? Definitive signposts with extreme dictators aren't difficult to see, but outside of that spectrum, the clues aren't easy to come by and all too often too late. Take Tony Blair, it was only last week that the morsel came out of his mouth</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc964c33444db3fcf581330ce6b2862580605522.png"></article>]]></description>
-            <link>undefinedblair-doesnt-get-democracy/index.html</link>
+            <description><![CDATA[<article><h1>Blair doesn't get democracy</h1><p>Crocodile's Tears</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc964c33444db3fcf581330ce6b2862580605522.png"></article>]]></description>
+            <link>https://thegrid.ai/getkidman/blair-doesnt-get-democracy/index.html</link>
             <guid isPermaLink="false">427db469-4c30-4c5e-8334-55811d0df85d</guid>
-            <pubDate>Sat, 05 Mar 2016 13:28:44 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 13:30:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
