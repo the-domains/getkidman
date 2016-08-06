@@ -1,29 +1,41 @@
-name: getkidman
-favicon: null
-layout_spectrum: 0.3865980412811041
-typography_spectrum: 0.49592
 title: getKidman
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3125
+  brandStrength: 0.4407649
+  lightness: 0.625
+  brandColors:
+    - '#000000'
+    - '#ACACAC'
+    - '#373737'
+    - '#6D6D6D'
+    - '#8D0000'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: getkidman
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.875
-  lightness: 0.625
-  saturation: 0.3125
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.49592
+layout_spectrum: 0.3865980412811041
