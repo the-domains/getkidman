@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: getkidman
 favicon: null
+name: getkidman
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.49592
-layout_spectrum: 0.3865980412811041
+typography_spectrum: 0.2621269
+layout_spectrum: 0.09421642
