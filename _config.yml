@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3125
-  brandStrength: 0.4407649
+  brandStrength: 0.3647388
   lightness: 0.625
   brandColors:
+    - '#FFFFFF'
     - '#000000'
-    - '#ACACAC'
     - '#373737'
-    - '#6D6D6D'
-    - '#8D0000'
+    - '#636363'
+    - '#B8B8B8'
   rhythmicContrast: 0.25
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: getkidman
+favicon: null
 opengraph:
   image: null
   type: null
